@@ -6,7 +6,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://vimukthi-maduwantha.vercel.app/](https://vimukthi-maduwantha.vercel.app/)-->
 
-- 💬 Ask me about **MERN, .NET core, Android**
+- 💬 Ask me about **MERN, .NET, Android**
 
 - 📫 How to reach me **pramithjayakody@gmail.com**
 
